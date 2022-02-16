@@ -34,7 +34,7 @@ In the first part of the project, the objectif is to manipulate data and display
 
 For example, a map showing the number of establishment listed by Yelp in each country, the average stars or reviews per country...
 
-![photo](https://user-images.githubusercontent.com/71329302/154366477-ae693fef-a86b-455e-b8aa-1d3a2c80ea58.jpg)
+![photo](https://user-images.githubusercontent.com/71329302/154370118-be2d6dde-a162-460c-ba03-770a8f1c73c4.jpg)
 
 In the second part, the objectif is to define a classifier that predicts sentiment associated with a review ("positif" or "negatif"). 
 
